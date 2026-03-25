@@ -15,7 +15,7 @@
 
 ```
 📍 Location : Algeria 🇩🇿
-🎓 Degree   : Computer Engineering — Cybersecurity (3rd year)
+🎓 Degree   : Computer Engineering — Cybersecurity 
 💡 Interests: Software Engineering · System Design · Cybersecurity
 🛠️ Status   : Working on academic & team-based projects
 🧠 Mindset  : Detail-oriented · Curious · Always learning
