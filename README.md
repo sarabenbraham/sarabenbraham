@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=E91E8C&center=true&vCenter=true&width=750&height=80&lines=Bonjour!+Je+suis+Sara+Benbraham+🌸;Étudiante+en+Génie+Informatique;Cybersécurité+·+Génie+Logiciel+·+Systèmes+Distribués;Toujours+en+train+d'apprendre+%26+de+construire...)](https://github.com/sarabenbraham)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=E91E8C&center=true&vCenter=true&width=750&height=80&lines=Bonjour!+Je+suis+Sara+Benbraham+🌸;Étudiante+en+Informatique;+Cybersécurité+·+Génie+Logiciel+·+Systèmes+Distribués;+Toujours+en+train+d'apprendre+%26+de+se+développer...)](https://github.com/sarabenbraham)
 
 <br/>
 
@@ -183,11 +183,11 @@
 
 ## 🎓 Expérience
 
-### 👩‍🏫 Tutrice en ligne — Algorithmique & Informatique
-- Sessions de tutorat en ligne en **algorithmique et résolution de problèmes**
-- Aide à la maîtrise des algorithmes de tri, de la récursivité et des structures de données
-- Accompagnement d'étudiants vers une meilleure logique de programmation et capacité d'abstraction
-
+### 👩‍🏫 Tutrice en ligne — Algorithmique, Structures de Données & de Fichiers
+- Enseignement en ligne d'un module complet couvrant l'**algorithmique**, les **structures de données** et les **structures de fichiers**
+- Transmission de concepts fondamentaux : algorithmes de tri, récursivité, listes chaînées, arbres, fichiers séquentiels et indexés
+- Capacité à vulgariser des notions complexes et à les rendre accessibles, avec un focus sur la logique et la rigueur
+- Suivi personnalisé d'étudiants avec une pédagogie orientée compréhension profonde plutôt que mémorisation
 ---
 
 ## 📊 Statistiques GitHub
