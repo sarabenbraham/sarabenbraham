@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=E91E8C&center=true&vCenter=true&width=750&height=80&lines=Bonjour!+Je+suis+Sara+Benbraham+🌸;Étudiante+en+Informatique;+Cybersécurité+·+Génie+Logiciel+·+Systèmes+Distribués;+Toujours+en+train+d'apprendre+%26+de+se+développer...)](https://github.com/sarabenbraham)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=E91E8C&center=true&vCenter=true&width=750&height=80&lines=Bonjour!+Je+suis+Sara+Benbraham+🌸;Étudiante+en+Informatique;+Cybersécurité+;+Génie+Logiciel+;+Systèmes+Distribués;+Toujours+en+train+d'apprendre+;%26+de+se+développer...)](https://github.com/sarabenbraham)
 
 <br/>
 
