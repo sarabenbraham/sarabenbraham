@@ -16,7 +16,7 @@
 
 ```
 📍 Localisation  : Algérie 🇩🇿
-🎓 Formation     : Génie Informatique — Spécialité Cybersécurité (3ème année, USTHB)
+🎓 Formation     : Informatique — Spécialité Cybersécurité (3ème année, USTHB)
 💡 Intérêts      : Génie Logiciel · Sécurité Informatique · Systèmes Distribués · Cloud
 🛠️ Statut        : Projets académiques & travail en équipe
 🧠 Philosophie   : Rigoureuse · Curieuse · Orientée détails · En apprentissage continu
@@ -61,6 +61,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-AD1457?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-C2185B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-E91E8C?style=for-the-badge&logo=oracle&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL3](https://img.shields.io/badge/SQL3-2196F3?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚙️ Outils, DevOps & Environnements
 
