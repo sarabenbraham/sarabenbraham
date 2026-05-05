@@ -87,6 +87,24 @@
 ## 📌 Projets
 
 <table>
+ <tr>
+  <td width="50%" valign="top">
+    <h3>🛡️ Aspis AI — Cybersecurity Assistant</h3>
+    <p>
+      Développement d’un agent IA de cybersécurité capable de comprendre des requêtes en langage naturel,
+      d’orchestrer automatiquement des outils de sécurité (Nmap, Hydra, Nikto) et de générer des rapports
+      d’analyse complets avec recommandations et scoring de sécurité.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI%20Agent-6A1B9A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Cybersecurity-1B5E20?style=flat-square"/>
+    </p>
+  </td>
+ </tr>
+  
   <tr>
     <td width="50%" valign="top">
       <h3>🗂️ Système de Fichiers Distribué (SFSD)</h3>
@@ -153,7 +171,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Déploiement Cloud — Apache (TP3)</h3>
+      <h3>☁️ Déploiement Cloud — Apache </h3>
       <p>Lab cloud computing sur GitHub Codespaces — déploiement d'une interface HTML/CSS via Apache, configuration serveur et résolution de problèmes réseau.</p>
       <p>
         <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
