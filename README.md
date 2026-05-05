@@ -95,6 +95,7 @@
       d’orchestrer automatiquement des outils de sécurité (Nmap, Hydra, Nikto) et de générer des rapports
       d’analyse complets avec recommandations et scoring de sécurité.
     </p>
+    <p><b>Team Project</b> (4 members – Cybersecurity, AI & Software Engineering students at USTHB)</p>
     <p>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
